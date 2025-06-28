@@ -1,0 +1,2 @@
+# CostumeZone--Cloud-based-Costume-Rental-Web-Application-with-CI-CD
+CostumeZone is a cloud-based web app for browsing and renting costumes online. This report covers its design, architecture, AWS Elastic Beanstalk deployment, CI/CD implementation, security analysis, and performance optimization. Focused on scalability, reliability, and maintenance, it highlights the CI/CD pipeline and cloud9 development.
